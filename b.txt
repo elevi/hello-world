@@ -24,6 +24,9 @@ ds
 sdf
 sd
 f
+def self.boo()
+ p 'boo'
+end
 sdf
 sd
 f
